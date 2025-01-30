@@ -1,0 +1,7 @@
+C:\Users\drek_\source\repos\Arreglo_abc\bin\Debug\Arreglo_abc.exe.config
+C:\Users\drek_\source\repos\Arreglo_abc\bin\Debug\Arreglo_abc.exe
+C:\Users\drek_\source\repos\Arreglo_abc\bin\Debug\Arreglo_abc.pdb
+C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.csproj.AssemblyReference.cache
+C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.csproj.CoreCompileInputs.cache
+C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.exe
+C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.pdb
