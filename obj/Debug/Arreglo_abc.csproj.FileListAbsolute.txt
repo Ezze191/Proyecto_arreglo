@@ -5,3 +5,5 @@ C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.csproj.AssemblyRef
 C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.csproj.CoreCompileInputs.cache
 C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.exe
 C:\Users\drek_\source\repos\Arreglo_abc\obj\Debug\Arreglo_abc.pdb
+C:\Users\LapOne MX\Documents\Proyecto_arreglo\obj\Debug\Arreglo_abc.exe
+C:\Users\LapOne MX\Documents\Proyecto_arreglo\obj\Debug\Arreglo_abc.pdb

@@ -175,6 +175,132 @@ namespace Arreglo_abc
                 case "f":
                     valor = 5.5;
                     break;
+                case "G": 
+                     valor = 6; 
+                     break;
+                case "g": 
+                     valor = 6.5; 
+                     break;
+                case "H": 
+                     valor = 7; 
+                     break;
+                case "h": 
+                     valor = 7.5; 
+                     break;
+                case "I": 
+                     valor = 8; 
+                     break;
+                case "i": 
+                     valor = 8.5; 
+                     break;
+                case "J": 
+                     valor = 9; 
+                     break;
+                case "j": 
+                     valor = 9.5; 
+                     break;
+                case "K": 
+                     valor = 10; 
+                     break;
+                case "k": 
+                     valor = 10.5; 
+                    break;
+                case "L": 
+                     valor = 11; 
+                     break;
+                case "l": 
+                     valor = 11.5; 
+                     break;
+                case "M": 
+                     valor = 12; 
+                     break;
+                case "m": 
+                     valor = 12.5; 
+                     break;
+                case "N": 
+                     valor = 13; 
+                     break;
+                case "n": 
+                     valor = 13.5; 
+                     break;
+                case "Ñ": 
+                     valor = 14; 
+                     break;
+                case "ñ": 
+                     valor = 14.5; 
+                     break;
+                case "O": 
+                     valor = 15; 
+                     break;
+                case "o": 
+                     valor = 15.5; 
+                     break;
+                case "P": 
+                     valor = 16; 
+                     break;
+                case "p": 
+                     valor = 16.5; 
+                     break;
+                case "Q": 
+                     valor = 17; 
+                     break;
+                case "q": 
+                     valor = 17.5; 
+                     break;
+                case "R": 
+                     valor = 18; 
+                     break;
+                case "r": 
+                     valor = 18.5; 
+                     break;
+                case "S": 
+                     valor = 19; 
+                     break;
+                case "s": 
+                     valor = 19.5; 
+                     break;
+                case "T": 
+                     valor = 20; 
+                     break;
+                case "t": 
+                     valor = 20.5; 
+                     break;
+                case "U": 
+                     valor = 21; 
+                     break;
+                case "u": 
+                     valor = 21.5; 
+                     break;
+                case "V": 
+                     valor = 22; 
+                     break;
+                case "v": 
+                     valor = 22.5; 
+                     break;
+                case "W": 
+                     valor = 23; 
+                    break;
+                case "w": 
+                     valor = 23.5; 
+                     break;
+                case "X": 
+                     valor = 24; 
+                     break;
+                case "x": 
+                     valor = 24.5; 
+                     break;
+                case "Y": 
+                     valor = 25; 
+                     break;
+                case "y": 
+                     valor = 25.5; 
+                     break;
+                case "Z": 
+                     valor = 26; 
+                     break;
+                case "z": 
+                     valor = 26.5; 
+                     break;
                 default:
                     Console.WriteLine("no existe esa letra");
                     break;
@@ -230,6 +356,132 @@ namespace Arreglo_abc
                     case 5.5:
                         arreglo_abc[j] = "f";
                         break;
+                    case 6: 
+                        arreglo_abc[j] = "G"; 
+                        break;
+                    case 6.5: 
+                        arreglo_abc[j] = "g"; 
+                        break;
+                    case 7: 
+                        arreglo_abc[j] = "H"; 
+                        break;
+                    case 7.5: 
+                        arreglo_abc[j] = "h"; 
+                        break;
+                    case 8: 
+                        arreglo_abc[j] = "I"; 
+                        break;
+                    case 8.5: 
+                        arreglo_abc[j] = "i"; 
+                        break;
+                    case 9: 
+                        arreglo_abc[j] = "J"; 
+                        break;
+                    case 9.5: 
+                        arreglo_abc[j] = "j"; 
+                        break;
+                    case 10: 
+                        arreglo_abc[j] = "K"; 
+                        break;
+                    case 10.5: 
+                        arreglo_abc[j] = "k"; 
+                        break;
+                    case 11: 
+                        arreglo_abc[j] = "L"; 
+                        break;
+                    case 11.5: 
+                        arreglo_abc[j] = "l"; 
+                        break;
+                    case 12: 
+                        arreglo_abc[j] = "M"; 
+                        break;
+                    case 12.5: 
+                        arreglo_abc[j] = "m"; 
+                        break;
+                    case 13: 
+                        arreglo_abc[j] = "N";
+                         break;
+                    case 13.5: 
+                        arreglo_abc[j] = "n"; 
+                        break;
+                    case 14:
+                    arreglo_abc[j] = "Ñ";
+                    break;
+                    case 14.5:
+                    arreglo_abc[j] = "ñ";
+                    break;
+                    case 15:
+                        arreglo_abc[j] = "O"; 
+                        break;
+                    case 15.5: 
+                        arreglo_abc[j] = "o"; 
+                        break;
+                    case 16: 
+                        arreglo_abc[j] = "P"; 
+                        break;
+                    case 16.5: 
+                        arreglo_abc[j] = "p"; 
+                        break;
+                    case 17: 
+                        arreglo_abc[j] = "Q"; 
+                        break;
+                    case 17.5: 
+                        arreglo_abc[j] = "q"; 
+                        break;
+                    case 18: 
+                        arreglo_abc[j] = "R"; 
+                        break;
+                    case 18.5: 
+                        arreglo_abc[j] = "r"; 
+                        break;
+                    case 19: 
+                        arreglo_abc[j] = "S"; 
+                        break;
+                    case 19.5: 
+                        arreglo_abc[j] = "s"; 
+                        break;
+                    case 20: 
+                        arreglo_abc[j] = "T"; 
+                        break;
+                    case 20.5: 
+                        arreglo_abc[j] = "t"; 
+                        break;
+                         case 21: 
+                        arreglo_abc[j] =  "U"; 
+                     break;
+                    case 21.5: 
+                      arreglo_abc[j] = "u"; 
+                     break;
+                case 22: 
+                     arreglo_abc[j]  = "V"; 
+                     break;
+                case  22.5: 
+                      arreglo_abc[j]  ="v"; 
+                     break;
+                case  23: 
+                      arreglo_abc[j]  ="W"; 
+                    break;
+                case 23.5: 
+                      arreglo_abc[j] =   "w"; 
+                     break;
+                case   24: 
+                      arreglo_abc[j] = "X"; 
+                     break;
+                case  24.5: 
+                      arreglo_abc[j]  ="x"; 
+                     break;
+                case  25: 
+                      arreglo_abc[j]  =  "Y"; 
+                     break;
+                case  25.5: 
+                      arreglo_abc[j]  = "y" ; 
+                     break;
+                case 26 : 
+                      arreglo_abc[j] = "Z" ; 
+                     break;
+                case 26.5: 
+                      arreglo_abc[j]  = "z" ; 
+                     break;
                 }
             }
             menu();
